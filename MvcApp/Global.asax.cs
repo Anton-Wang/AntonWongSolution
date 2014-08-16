@@ -29,7 +29,7 @@ namespace MvcApp
             DependencyResolver.SetResolver(solver);
 		//AddTest测试gggggggggggggggg
 		//MVC
-	//2014年8月16日 21:39:05
+	//2014年8月16日 21:39:05 二〇一四年八月十六日 21:52:59
 
         }
     }
